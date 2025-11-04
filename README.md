@@ -279,10 +279,15 @@ We use the official implementation to filter out suspected poisoned test samples
 If you find our work helpful, please consider citing our paper:
 
 ```
-@article{tong2024cut,
-  title={Cut the Deadwood Out: Post-Training Model Purification with Selective Module Substitution},
+@inproceedings{tong-etal-2025-cut,
+  title={Cut the Deadwood Out: Backdoor Purification via Guided Module Substitution},
   author={Tong, Yao and Li, Weijun and He, Xuanli and Zhan, Haolan and Xu, Qiongkai},
-  journal={arXiv preprint arXiv:2412.20476},
-  year={2024}
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2025},
+  year={2025},
+  month={nov},
+  address={Suzhou, China},
+  publisher={Association for Computational Linguistics},
+  pages={23760--23783},
+  url={https://aclanthology.org/2025.findings-emnlp.1293/}
 }
 ```
